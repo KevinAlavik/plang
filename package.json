@@ -46,7 +46,7 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
-    "@types/express": "^4.17.18",
+    "@types/express": "^5.0.0",
     "@types/mocha": "^10.0.2",
     "@types/node": "^20.8.3",
     "@types/readline-sync": "^1.4.5",
